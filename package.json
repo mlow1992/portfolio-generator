@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlow1992/portfolio-generator.git"
+  },
+  "author": "Matt Low",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlow1992/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/mlow1992/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
